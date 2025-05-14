@@ -1,7 +1,25 @@
-# @CMansell25 and @Mansell77
+# Carter Mansell
 
-## ME?
-- 👀 I’m interested in how to use Github
-- 🌱 I’m currently learning Electrical Engineering and Microelectronics at Wright State University
-- 📫 How to reach me: cjmansell25@gmail.com mansell.7@wright.edu cjmansell25@outlook.com
-- ⚡ Fun fact: I can't really code
+## 👨‍🎓 About Me  
+- 🎓 Electrical Engineering student at **Wright State University** (ABET Accredited)  
+- 🎖 Minor in **Assured and Trusted Digital Microelectronics**  
+- 🏅 Graduate of **Tecumseh High School** (Valedictorian)  
+
+## 💻 Coding Languages  
+- Python / MicroPython  
+- Java  
+- VHDL  
+- LogixPro  
+- Studio 5000  
+
+## 🔧 Technical Skills  
+- Altium Designer  
+- Cadence Virtuoso  
+- PCB Design & Layout  
+- Precision Soldering  
+
+## 📞 Contact Me  
+- **Mobile:** (937) 765-1701  
+- **Email (Primary):** cjmansell25@gmail.com  
+- **Email (University):** mansell.7@wright.edu  
+- **Email (Alternate):** cjmansell25@outlook.com  
